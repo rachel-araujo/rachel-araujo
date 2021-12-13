@@ -1,7 +1,8 @@
 Olá! eu sou a Rachel Araujo
 
-- 👩‍💻 Desenvolvedora Front-End
-- 👩‍🎓 Estou cursando Análise e Desenvolvimento de Sistemas
+💻 I'm Front-End Developer!
+
+👩‍🎓 Analysis and Systems Development
 
 ##
  <div>
