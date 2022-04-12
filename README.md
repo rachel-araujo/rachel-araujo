@@ -1,6 +1,6 @@
 I'm Rachel!
 
-💻 I'm Front-End Developer!
+💻 I'm Full Stack Developer!
 
 👩‍🎓 Analysis and Systems Development
 
