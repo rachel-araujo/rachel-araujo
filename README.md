@@ -26,10 +26,7 @@ I'm Rachel!
   <img align="center" alt="Rachel-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
           
           
-          
-          
-          
-          
+                  
           
 </div>
   
